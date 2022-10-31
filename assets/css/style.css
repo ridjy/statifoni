@@ -1,0 +1,23 @@
+.row {
+
+}
+
+[class*="span"] {
+border-radius: 5px 5px 5px 5px;
+line-height: 20px;
+float: left;
+/*margin-left: 20px;*/
+}
+
+[class="span10"] {
+background-color: green;
+}
+
+#formulaire {
+background-color:#CCC;
+padding: 10px;
+}
+
+.navbar{
+	background-color:#e11f31;	
+}
